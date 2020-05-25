@@ -25,8 +25,9 @@
     display: flex;
     width: 100%;
     margin-top: 5px;
-
+    color: #071E3D;
 }
+
 span p{
     color: #071E3D;
     cursor: pointer;
@@ -45,6 +46,7 @@ span p{
 }
 .firstTag input[type="checkbox"] {
     -webkit-appearance: none;
+    color: #071E3D;
 
 }
 .firstTag i {

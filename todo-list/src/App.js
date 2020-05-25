@@ -126,7 +126,7 @@ class App extends React.Component {
                         <div>
                             <img  src="undraw_completed_ngx6.png" alt=""/>
                             <h2>Celebrate, you're all done.</h2>
-                            <p>Have a good day!</p>
+                            <p id="good">Have a good day!</p>
                         </div>
                     </Rtif>
 

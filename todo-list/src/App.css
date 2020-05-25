@@ -142,7 +142,7 @@ form{
   overflow: auto;
 
 }
-.todoHolder p{
+.todoHolder #good{
   color: #071E3D;
   opacity: 0.5;
   font-family: Roboto ;
@@ -289,7 +289,7 @@ form{
     margin-left: auto;
     display: block;
   }
-  .todoHolder p{
+  .todoHolder #good{
     opacity: 0.5;
     font-family: Roboto ;
     font-size: 18px;
